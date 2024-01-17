@@ -1,0 +1,3 @@
+# Project: 0x01. Developer tools 🚀
+
+Welcome to the DevTools Mastery project, a thrilling journey to sharpen web development skills! In this hands-on experience, we'll delve into the intricacies of Developer Tools, unlocking the secrets of browsers with tasks curated to challenge and enhance understanding of web development. Navigate through tasks like wielding the mighty device toolbar, transforming page aesthetics with a touch of CSS magic, and unraveling the mysteries of web performance. Let's embark on this adventure together, and by the end, we'll be wielding Developer Tools like a true web wizard! 🌐✨
