@@ -1,4 +1,4 @@
-# AlX Frontend
+# ALX Frontend
 
 ---
 
