@@ -8,8 +8,8 @@ Advanced CSS is not just about colors and layouts; it's an art form. This projec
 
 ## Features
 
-- ✨ Stunning animations to captivate your audience.
+- ✨ Stunning animations.
 - 📐 Responsive design that looks great on any device.
-- 🎨 Customized styles and themes to express your creativity.
+- 🎨 Customized styles and themes to express creativity.
 - 🚀 Optimized performance for a seamless user experience.
 - 🛠️ Modular and maintainable codebase.
